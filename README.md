@@ -29,7 +29,7 @@ Bu proje, **full-stack** bir e-ticaret uygulamasının **client** ve **API** tar
 - Mesajlaşma: **Kafka / RabbitMQ, SignalR**
 - Önbellekleme: **Redis**
 - Konteyner: **Docker & Kubernetes**
-- **API Gateway Pattern**
+- **API Gateway Pattern (YARP)**
 - **Onion Mimari**
 - **Anlık veri transferi için Kafka ve Debezium**
 
